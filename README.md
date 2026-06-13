@@ -79,9 +79,6 @@ Real-world survey data is messy. Key fixes performed:
 ---
 
 ## Outreach Photos
-## Outreach Photos
-
-![Community health outreach in Madi](Media/Photo1.jpg)
 
 ![Outreach activity](Media/Photo2.jpg)
 
