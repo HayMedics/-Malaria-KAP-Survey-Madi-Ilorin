@@ -79,7 +79,11 @@ Real-world survey data is messy. Key fixes performed:
 ---
 
 ## Outreach Photos
-![Outreach](media/Photo from Abu Talha(HayMedics))
+![Outreach](media/Photo from Abu Talha(HayMedics).jpg)
+![Outreach](media/Photo from Abu Talha(HayMedics)(1).jpg)
+![Outreach](media/Photo from Abu Talha(HayMedics)(2).jpg)
+
+
 
 ---
 ## Author
