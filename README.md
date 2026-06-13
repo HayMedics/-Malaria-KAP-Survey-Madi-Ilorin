@@ -81,28 +81,29 @@ Real-world survey data is messy. Key fixes performed:
 ## Outreach Photos
 ## Outreach Photos
 
-![Community health outreach in Madi](media/photo2.jpg)
+![Community health outreach in Madi](Media/Photo1.jpg)
 
-![Outreach activity](media/photo3.jpg)
+![Outreach activity](Media/Photo2.jpg)
 
-![Outreach activity](media/photo4.jpg)
+![Outreach activity](Media/Photo3.jpg)
 
-![Outreach activity](media/photo5.jpg)
+![Outreach activity](Media/Photo4.jpg)
 
-![Outreach activity](media/photo6.jpg)
+![Outreach activity](Media/Photo5.jpg)
 
-![Outreach activity](media/photo7.jpg)
+![Outreach activity](Media/Photo6.jpg)
 
-![Outreach activity](media/photo8.jpg)
+![Outreach activity](Media/Photo7.jpg)
 
-![Outreach activity](media/photo9.jpg)
+![Outreach activity](Media/Photo8.jpg)
 
-![Outreach activity](media/photo10.jpg)
+![Outreach activity](Media/Photo9.jpg)
 
-![Outreach activity](media/photo11.jpg)
+![Outreach activity](Media/Photo10.jpg)
 
-![Outreach activity](media/photo12.jpg)
+![Outreach activity](Media/Photo11.jpg)
 
+![Outreach activity](Media/Photo12.jpg)
 
 ---
 ## Author
