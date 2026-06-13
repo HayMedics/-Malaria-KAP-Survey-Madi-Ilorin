@@ -80,8 +80,8 @@ Real-world survey data is messy. Key fixes performed:
 
 ## Author
 
-**HayMedics Academy** — Healthcare Data Science & AI
-Project Manager & Data Scientist for the Madi Community Malaria Outreach.
+**Awal Abdulrahman**
+Project Manager for the Madi Community Health Outreach.
 
 ---
 
