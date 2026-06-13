@@ -78,6 +78,10 @@ Real-world survey data is messy. Key fixes performed:
 
 ---
 
+## Photo Gallery
+![Outreach](media/photo1.jpg)
+
+---
 ## Author
 
 **Awal Abdulrahman**
