@@ -3,8 +3,6 @@
 
 A data-driven public-health analysis of a malaria KAP survey conducted during a community health outreach in Madi Community, Ilorin, Nigeria.
 
-**By HayMedics Academy**
-
 ---
 
 ## About This Project
